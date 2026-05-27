@@ -68,4 +68,4 @@
 
 ### Вариант 1: Google Colab (рекомендуется)
 
-1. Откройте ноутбук в Google Colab: https://colab.research.google.com/github/riorita41-cloud/-/blob/main/numpy.ipynb_
+1. Откройте ноутбук в Google Colab: https://colab.research.google.com/github/USERNAME/REPO_NAME/blob/BRANCH/PATH_TO_NOTEBOOK.ipynb
